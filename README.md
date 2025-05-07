@@ -1,6 +1,6 @@
 ## 👨‍💻 About Me
 
-I'm Meet Radadiya, an AI/ML Engineer passionate about building intelligent systems that solve real-world problems. I enjoy working on projects involving machine learning, deep learning, and computer vision using tools like TensorFlow and PyTorch.
+Hey Everyone 👋, I'm Meet Radadiya, an AI/ML Engineer passionate about building intelligent systems that solve real-world problems. I enjoy working on projects involving machine learning, deep learning, and computer vision using tools like TensorFlow and PyTorch.
 
 I’m constantly exploring new technologies and love turning complex challenges into smart solutions.  
 🚀 Currently exploring: Generative AI, NLP, and LLMs  
